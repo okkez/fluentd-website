@@ -713,7 +713,7 @@ a.read-more:hover {
 /*Revolution Slider
 ------------------------------------*/
 .bg-black-opacity {
-   background: url(../img/sliders/revolution/bg-text.png) repeat;
+   background: url(/images/sliders/revolution/bg-text.png) repeat;
    padding: 7px;
    text-shadow: none !important;
 }
