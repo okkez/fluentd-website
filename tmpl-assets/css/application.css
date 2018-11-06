@@ -6,6 +6,7 @@
  *= require parallax-slider/css/parallax-slider.css
  *
  * applications
+ *= require app.css
  *= require style.css
  *= require headers/header1.css
  *= require responsive.css
