@@ -19,7 +19,7 @@ end
 # Static Assets
 # @see https://github.com/kalasjocke/sinatra-asset-pipeline
 set :root, File.dirname(__FILE__)
-set :asset_precompile, %w(application.js application.css *.png *.jpg *.svg *.eot *.ttf *.woff *.woff2)
+set :asset_precompile, %w(application.js application.css newsletter.css *.png *.jpg *.svg *.eot *.ttf *.woff *.woff2)
 set :assets_paths, %w(/tmpl-assets/js /tmpl-assets/css /tmpl-assets/img /tmpl-assets/plugins)
 set :assets_css_compressor, :yui
 set :assets_js_compressor, :yui
